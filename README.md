@@ -1,5 +1,7 @@
 # **Finding Lane Lines on the Road** #
-###The code file is called P1_ruibao.ipynb and the writeup.pdf is final report.
+
+The code file is called P1_ruibao.ipynb and the writeup.pdf is final report.
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="test_images_output/solidWhiteCurve.jpg" width="480" alt="Combined Image" />
